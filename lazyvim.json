@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lang.tex",
+    "lazyvim.plugins.extras.util.gitui"
+  ],
+  "news": {
+    "NEWS.md": "7107"
+  },
+  "version": 6
+}
