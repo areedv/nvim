@@ -1,10 +1,13 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.r",
     "lazyvim.plugins.extras.lang.tex",
-    "lazyvim.plugins.extras.util.gitui"
+    "lazyvim.plugins.extras.lang.yaml"
   ],
+  "install_version": 7,
   "news": {
-    "NEWS.md": "7107"
+    "NEWS.md": "10960"
   },
-  "version": 6
+  "version": 8
 }
